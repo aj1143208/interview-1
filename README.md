@@ -1,6 +1,7 @@
 # C/C++ 面试知识总结
 
 C/C++ 面试知识总结，只为复习、分享。部分知识点与图片来自网络，侵删。
+![image](https://user-images.githubusercontent.com/28823151/140746682-d58fae55-9976-483a-b175-4b618d000047.png)
 
 勘误新增请 Issue、PR，建议、讨论请 [#issues/12](https://github.com/huihut/interview/issues/12)，排版使用 [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
